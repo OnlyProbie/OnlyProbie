@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, Welcome! 👋
+
+> In the past, When I look back, I smile.
 
 <!--
 **OnlyProbie/OnlyProbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyProbie)](https://github.com/OnlyProbie)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyProbie&layout=compact)](https://github.com/OnlyProbie)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyProbie&bg_color=45,#FF0000,#FF7F00,#FFFF00,#00FF00,#00FFFF,#0000FF,#8B00FF)](https://github.com/OnlyProbie)
